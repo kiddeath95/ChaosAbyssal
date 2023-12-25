@@ -1,6 +1,9 @@
 package net.crypticarc.abyssal;
 
 import com.mojang.logging.LogUtils;
+import net.crypticarc.abyssal.item.ModCreativeModeTabs;
+import net.crypticarc.abyssal.item.ModItems;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -25,6 +28,9 @@ public class ChaosAbyssal
     public ChaosAbyssal()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModCreativeModeTabs.register(modEventBus);
+        ModItems.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
