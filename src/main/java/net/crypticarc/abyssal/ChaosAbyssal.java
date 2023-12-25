@@ -1,6 +1,7 @@
 package net.crypticarc.abyssal;
 
 import com.mojang.logging.LogUtils;
+import net.crypticarc.abyssal.block.ModBlocks;
 import net.crypticarc.abyssal.item.ModCreativeModeTabs;
 import net.crypticarc.abyssal.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -31,6 +32,7 @@ public class ChaosAbyssal
 
         ModCreativeModeTabs.register(modEventBus);
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
