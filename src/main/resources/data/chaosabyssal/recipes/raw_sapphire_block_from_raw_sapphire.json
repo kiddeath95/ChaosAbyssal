@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chaosabyssal:raw_sapphire"
+    }
+  },
+  "result": {
+    "item": "chaosabyssal:raw_sapphire_block"
+  }
+}

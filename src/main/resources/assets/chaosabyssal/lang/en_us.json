@@ -1,9 +1,16 @@
 {
   "item.chaosabyssal.sapphire": "Sapphire",
   "item.chaosabyssal.raw_sapphire": "Raw Sapphire",
+  "item.chaosabyssal.metal_detector": "Metal Detector",
 
   "block.chaosabyssal.sapphire_block": "Block of Sapphire",
   "block.chaosabyssal.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.chaosabyssal.sapphire_ore": "Sapphire Ore",
+  "block.chaosabyssal.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.chaosabyssal.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.chaosabyssal.end_stone_sapphire_ore": "End Stone Sapphire Ore",
+  "block.chaosabyssal.sound_block": "Sound Block",
 
   "creativetab.chaos_ingredients": "Chaos: Ingredients"
 }

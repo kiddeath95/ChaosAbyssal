@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "chaosabyssal:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "chaosabyssal:sapphire",
+    "count": 9
+  }
+}

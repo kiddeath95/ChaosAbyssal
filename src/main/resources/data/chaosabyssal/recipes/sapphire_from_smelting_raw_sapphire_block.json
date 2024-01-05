@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "chaosabyssal:raw_sapphire_block"
+  },
+  "result": {
+    "item": "chaosabyssal:sapphire",
+    "count": 9
+  }
+}
