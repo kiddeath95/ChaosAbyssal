@@ -23,6 +23,14 @@ public class ModCreativeModeTabs {
                          pOutput.accept(ModItems.RAW_SAPPHIRE.get());
                          pOutput.accept(ModItems.METAL_DETECTOR.get());
 
+                         pOutput.accept(ModItems.STRAWBERRY.get());
+                         pOutput.accept(ModItems.ABYSSAL_STEW.get());
+                        pOutput.accept(ModItems.DEEP_SEA_DELICACIES.get());
+                        pOutput.accept(ModItems.MYSTIC_MARINER_PLATTER.get());
+                        pOutput.accept(ModItems.GOLDEN_APPLE_PIE.get());
+
+                        pOutput.accept(ModItems.PINE_CONE.get());
+
                          pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                          pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
 

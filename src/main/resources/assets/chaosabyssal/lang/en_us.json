@@ -6,11 +6,21 @@
   "block.chaosabyssal.sapphire_block": "Block of Sapphire",
   "block.chaosabyssal.raw_sapphire_block": "Block of Raw Sapphire",
 
+  "block.chaosabyssal.pine_cone": "Pine Cone",
+
   "block.chaosabyssal.sapphire_ore": "Sapphire Ore",
   "block.chaosabyssal.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
   "block.chaosabyssal.nether_sapphire_ore": "Nether Sapphire Ore",
   "block.chaosabyssal.end_stone_sapphire_ore": "End Stone Sapphire Ore",
   "block.chaosabyssal.sound_block": "Sound Block",
+
+  "item.chaosabyssal.strawberry": "Strawberry",
+  "item.chaosabyssal.abyssal_stew": "Abyssal Stew",
+  "item.chaosabyssal.deep_sea_delicacies": "Deep Sea Delicacies",
+  "item.chaosabyssal.golden_apple_pie": "Golden Apple Pie",
+  "item.chaosabyssal.mystic_mariner_platter": "Mystic Mariner Platter",
+
+  "tooltip.chaosabyssal.metal_detector.tooltip": "A metal detector that detects valuable ores. Right Click on the ground.",
 
   "creativetab.chaos_ingredients": "Chaos: Ingredients"
 }

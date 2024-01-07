@@ -1,0 +1,41 @@
+Deep Sea Delicacies:
+
+Hunger: 6 points
+Saturation: 7.2
+Effect: Night Vision for 2 minutes (to represent bioluminescence)
+
+Abyssal Stew:
+
+Hunger: 8 points
+Saturation: 12.8
+Effect: Water Breathing for 3 minutes
+
+Mystic Mariner Platter:
+
+Hunger: 10 points
+Saturation: 14.4
+Effect: Dolphins Grace for 2 minutes
+
+Eldritch Elixirs:
+
+Hunger: 4 points (as it's a drink)
+Saturation: 4.8
+Effect: Random short-term potion effect
+
+Cavernous Cakes:
+
+Hunger: 6 points per slice (8 slices per cake)
+Saturation: 0.4 per slice
+Effect: Resistance for 1 minute per slice
+
+Submerged Snacks:
+
+Hunger: 3 points
+Saturation: 3.6
+Effect: Haste for 5 minutes
+
+Luminous Lollipops:
+
+Hunger: 2 points
+Saturation: 2.4
+Effect: Glowing for 1 minute
